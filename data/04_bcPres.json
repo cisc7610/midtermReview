@@ -1,0 +1,14 @@
+{"name": "Brooklyn College",
+ "leader": "Michelle J. Anderson",
+ "departments": [
+     {"name": "Finance"},
+     {"name": "Special projects"},
+     {"name": "Enrollment management"},
+     {"name": "Student affairs"},
+     {"name": "Academic affairs"}
+ ],
+ "workers": [
+     {"name": "Tony Thomas"},
+     {"name": "Michael Hewitt"}
+ ]
+}

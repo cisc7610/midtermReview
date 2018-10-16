@@ -1,0 +1,32 @@
+{"name": "Computer and Information Science",
+ "leader": "Yedidyah Langsam",
+ "departments": [
+ ],
+ "workers": [
+     {"name": "Parikh, Rohit"},
+     {"name": "Raphan, Theodore"},
+     {"name": "Arnow, David M."},
+     {"name": "Augenstein, Moshe"},
+     {"name": "Bar-Noy, Amotz"},
+     {"name": "Dexter, Scott D."},
+     {"name": "Langsam, Yedidyah"},
+     {"name": "Rudowsky, Ira"},
+     {"name": "Sokol, Dina"},
+     {"name": "Tenenbaum, Aaron"},
+     {"name": "Weiss, Gerald"},
+     {"name": "Whitlock, Paula"},
+     {"name": "Yanofsky, Noson S."},
+     {"name": "Yarmish, Gabriel"},
+     {"name": "Zhou, Neng-Fa"},
+     {"name": "Ziegler, Chaim"},
+     {"name": "Cox, James L."},
+     {"name": "Mandel, Michael"},
+     {"name": "Schnabolk, Charles"},
+     {"name": "Thurm, Joseph"},
+     {"name": "Chen, Hui"},
+     {"name": "Cogan, Eva"},
+     {"name": "Halevi, Tzipora"},
+     {"name": "Kletenik, Devorah"},
+     {"name": "Levitan, Rebecca"}
+ ]
+}

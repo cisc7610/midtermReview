@@ -1,0 +1,14 @@
+{"name": "Academic affairs",
+ "leader": "Anne Lopes",
+ "departments": [
+     {"name": "School of Business"},
+     {"name": "School of Humanities and Social Sciences"},
+     {"name": "School of Natural and behavioral sciences"},
+     {"name": "School of Visual, Media and Performing Arts"}
+ ],
+ "workers": [
+     {"name": "Sara Crosby"},
+     {"name": "Lisa Schwebel"},
+     {"name": "Sabrina Cerezo"}
+ ]
+}
